@@ -121,7 +121,7 @@ const services = [
       <section id="offers" className="offers" data-aos="zoom-in">
   <h2 className="section-title-offers">Special Offers</h2>
   <p className="offer-description">
-    Enjoy our limited-time <span className="animated-offer-word">Midnight Spa</span> spa packages starting at ₹1199!
+    Enjoy our limited-time <span className="animated-offer-word">Uchit The Luxury Spa</span> spa packages starting at ₹1199!
   </p>
 </section>
 
@@ -132,7 +132,7 @@ const services = [
     <img className="about-image" src="/images/about.jpg" alt="about" />
     <div className="about-text">
       <p>
-        <span className="animated-brand">Midnight Spa</span> is your ultimate destination for relaxation and rejuvenation. 
+        <span className="animated-brand">Uchit The Luxury Spa</span> is your ultimate destination for relaxation and rejuvenation. 
         Offering various soothing therapies including Dry Massage, Aroma Oil Massage, 
         and more, our spa ensures you leave feeling refreshed and revitalized.
         At our spa, we believe in the healing power of touch and the serenity it brings to both body and soul. 
@@ -162,19 +162,19 @@ const services = [
     <p>
       <a
         className="contact-icon map"
-        href="https://maps.app.goo.gl/4cVRNAPz4Lm7ZJbF6?g_st=awb"
+        href="https://maps.app.goo.gl/MxYxq1Ha4rXErzBC8"
         target="_blank"
         rel="noopener noreferrer"
       >
         <FaMapMarkerAlt />
       </a>
-      <span className="contact-text">Midnight Spa | Bhatkhedi Chourha, Opp. BS Hospital</span>
+      <span className="contact-text">Uchit The Luxury Spa | 1st Flore, Krishna Business Center, M3, near Vedanta Hospital, Vijay Nagar, Scheme 54 PU4, Indore, Madhya Pradesh 451020</span>
     </p>
     <p>
-      <a className="contact-icon phone" href="tel:+918871216273" title="Call us">
+      <a className="contact-icon phone" href="tel:+91 9179625864 | +91 9202853498 | +91 8269807884" title="Call us">
         <FaPhoneAlt />
       </a>
-      <span className="contact-text">8878873358 | 8871216273</span>
+      <span className="contact-text">9179625864 | 9202853498 | 8269807884</span>
     </p>
   </form>
 </section>

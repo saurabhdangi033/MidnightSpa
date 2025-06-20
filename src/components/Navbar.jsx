@@ -7,14 +7,14 @@ function Navbar() {
     <div>
       {/* Top Info Bar */}
     <div className="top-bar">
-  <div className="top-left">📧 midnightspa@email.com</div>
+  <div className="top-left">📧 uchittheluxuryspa@gmail.com</div>
   <div className="top-center">
-    <marquee>🌟 Welcome to Midnight Spa — +91 8871216273 , +91 8878873358 🌿</marquee>
+    <marquee>🌟 Welcome to Uchit The Luxury Spa — +91 9179625864 | +91 9202853498 | +91 8269807884 🌿</marquee>
   </div>
   <div className="top-right">
-    <a href="https://www.instagram.com/midnightspaandsalon?igsh=MzNlNGNkZWQ4Mg=="><FaInstagram /></a>
+    <a href="https://www.instagram.com/uchittheluxuryspa/"><FaInstagram /></a>
     <a href="https://www.facebook.com/profile.php?id=61569186301548"><FaFacebookF /></a>
-    <a href="https://maps.app.goo.gl/4cVRNAPz4Lm7ZJbF6?g_st=awb" target="_blank" rel="noopener noreferrer">
+    <a href="https://maps.app.goo.gl/MxYxq1Ha4rXErzBC8" target="_blank" rel="noopener noreferrer">
       <FaMapMarkerAlt />
     </a>
   </div>
@@ -24,7 +24,7 @@ function Navbar() {
       {/* Main Navbar */}
       <nav className="navbar">
         <div className="navbar-left">
-          <img src="/images/logo.png" alt="logo" className="logo" />
+          <img src="/images/logo.jpg" alt="logo" className="logo" />
         </div>
         <div className="link-binder">
           <ul className="nav-links">
@@ -36,7 +36,7 @@ function Navbar() {
           </ul>
 
           <div className="navbar-right">
-            <a href="tel:+918871216273" title="Call us">
+            <a href="tel:+919179625864" title="Call us">
               <FaPhoneAlt />
             </a>
           </div>

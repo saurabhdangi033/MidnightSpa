@@ -3,8 +3,8 @@ import '../assets/styles/Footer.css';
 function Footer() {
   return (
     <footer className="footer">
-      <p>© 2025 Midnight Spa | Bhatkhedi Chourha, Opp. BS Hospital</p>
-      <p>📞 8878873358 | 8871216273</p>
+      <p>© 2025 Uchit The Luxury Spa | 1st Flore, Krishna Business Center, M3, near Vedanta Hospital, Vijay Nagar, Scheme 54 PU4, Indore, Madhya Pradesh 451020</p>
+      <p>📞 9179625864 | 9202853498 | 8269807884</p>
     </footer>
   );
 }
